@@ -1,3 +1,13 @@
-table, th, td {
+table{
   border: 1px solid;
+  border-collapse: collapse;
+}
+th {
+  height: 60px;
+  background-color: #99BDBC;
+  color: black;
+  border: 1px solid;
+}
+td {
+  text-align: center;
 }
