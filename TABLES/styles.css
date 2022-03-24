@@ -11,5 +11,9 @@ th {
 }
 td {
   border-bottom: 1px solid;
+  padding: 10px;
 }
 tr:hover {background-color: coral;}
+caption{
+  font-size: 24pt;
+}
