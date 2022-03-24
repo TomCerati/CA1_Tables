@@ -6,8 +6,10 @@ th {
   height: 60px;
   background-color: #99BDBC;
   color: black;
-  border: 1px solid;
+  border-bottom: 1px solid;
+  padding: 4px;
 }
 td {
-  text-align: center;
+  border-bottom: 1px solid;
 }
+tr:hover {background-color: coral;}
